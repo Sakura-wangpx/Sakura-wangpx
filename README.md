@@ -36,5 +36,3 @@ My passion lies in building intelligent systems that can perceive, reason, and a
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
