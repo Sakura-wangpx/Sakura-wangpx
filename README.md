@@ -35,5 +35,3 @@ My passion lies in building intelligent systems that can perceive, reason, and a
 
 
 <br />
-
-[![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/spawner1145)](https://githubroast.dev/u/spawner1145)
